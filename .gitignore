@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+.env
+
+.vscode/
+.idea/
+
+chroma/
+vector_db/
+
+*.log
+.DS_Store
